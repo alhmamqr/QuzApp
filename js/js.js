@@ -15,7 +15,7 @@ fetch("js/quze.json")
 
 
 });
-
+if(my){
 
 // inout your name 
 let namee = document.querySelector(".yourname");
@@ -399,3 +399,4 @@ countdownIterval=setInterval(function(){
 	
     timer.innerHTML=`${minutes} : ${seconds}`;
     duration++; },1000)}
+}
