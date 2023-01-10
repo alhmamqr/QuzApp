@@ -1,0 +1,63 @@
+[{
+    "html": [{
+                "id":1,
+                "Qs":"What is html ?",
+                "Ans":"this Element languge" 
+                },
+                {
+                "id":2,
+                "Qs":"div is el ?",
+                "Ans":true  
+                },
+                {
+                "id":3,
+                "Qs":"p is table ?",
+                "Ans":false  
+                },
+                {
+                "id":4,
+                "Qs":"What is nav ?",
+                "Ans":"this header section" 
+                    }],
+    "css":[{
+                "id":1,
+                "Qs":"What is css ?",
+                "Ans":"this Element languge"  
+                },
+                {
+                "id":2,
+                "Qs":"class is el ?",
+                "Ans":true  
+                },
+                {
+                "id":3,
+                "Qs":"babcround is after ?",
+                "Ans":false  
+                },
+                {
+                "id":4,
+                "Qs":"what the px ?",
+                "Ans":"unit" 
+            
+    }],
+    "javascript":[{
+                "id":1,
+                "Qs":"What is js ?",
+                "Ans":"this prog languge"  
+                },
+                {
+                "id":2,
+                "Qs":"dom is el ?",
+                "Ans":true  
+                },
+                {
+                "id":3,
+                "Qs":"function is var ?",
+                "Ans":false  
+                },
+                {
+                "id":4,
+                "Qs":"what the for ?",
+                "Ans":"loop" 
+    }]
+               }]
